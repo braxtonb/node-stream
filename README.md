@@ -8,7 +8,7 @@ This project was inspired by a [Medium post on Node.js streams](https://blog.ins
 
 ## Setup
 
-* To install dependencies, run `npm install`
+To install dependencies, run `npm install`
 
 **Dev**
 
@@ -18,6 +18,8 @@ This project was inspired by a [Medium post on Node.js streams](https://blog.ins
 
 * To *build* the production version of the project, run `npm run build`
 * To *run* the production version of the project, run `npm start`
+
+Looking for what each npm script does? Try `npm run ntl` to select a script to run from a list of commands and their descriptions.
 
 ## Useful links
 
